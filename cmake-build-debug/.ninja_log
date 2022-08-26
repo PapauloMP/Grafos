@@ -1,0 +1,10 @@
+# ninja log v5
+1	180	6804182692431966	CMakeFiles/Trabalho_Grupo43.dir/MIs/Edge.cpp.obj	d7f599b6b212de5b
+20	890	6804182699739433	CMakeFiles/Trabalho_Grupo43.dir/MIs/GraphKruskal.cpp.obj	dd2695c849fad6ce
+40	1059	6804182701458062	CMakeFiles/Trabalho_Grupo43.dir/MIs/Menu.cpp.obj	fb4f5f948d0a7c5f
+53	1096	6804182701770546	CMakeFiles/Trabalho_Grupo43.dir/MIs/PrintDOT.cpp.obj	dfb5a1161b244f3c
+181	1148	6804182702395497	CMakeFiles/Trabalho_Grupo43.dir/main.cpp.obj	7744f962fb67b7e2
+893	1470	6804182705676530	CMakeFiles/Trabalho_Grupo43.dir/MIs/Node.cpp.obj	cb3a98211960820a
+30	2147	6804182712394814	CMakeFiles/Trabalho_Grupo43.dir/MIs/GraphPrim.cpp.obj	d9b8ca49ae13d002
+12	2384	6804182714738594	CMakeFiles/Trabalho_Grupo43.dir/MIs/Graph.cpp.obj	f3084a01e52bb8a6
+2386	2761	6804182718488279	Trabalho_Grupo43.exe	eeb7206394c1e46a
